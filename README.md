@@ -61,12 +61,12 @@ Verilog(basys3)을 활용한 공조기, 전자레인지, 스톱워치 프로젝�
 
 - main_top(Shematic)
 
-<img width="846" height="380" alt="2" src="https://github.com/user-attachments/assets/bb3e3ddf-f47a-4449-81e1-63c471a6dc51" />
+<img width="1587" height="1491" alt="image" src="https://github.com/user-attachments/assets/bc0d4176-8162-4982-8186-66d4b391a278" />
 
 
 - block Diagram(공조기 모드)
 
-<img width="851" height="425" alt="image (1)" src="https://github.com/user-attachments/assets/89afdc1d-a5ef-42cf-83ed-35f0e22bcd5f" />
+<img width="851" height="425" alt="image (1)" src="https://github.com/user-attachments/assets/be917685-3633-4a86-a543-ac4cedb92dc5" />
 
 
 ---
