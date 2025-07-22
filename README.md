@@ -34,6 +34,7 @@ Verilog(basys3)을 활용한 공조기, 전자레인지, 스톱워치 프로젝�
 
 ### [H/W] 형상
 
+<img width="1329" height="984" alt="image (3)" src="https://github.com/user-attachments/assets/5224b3da-1796-496e-8309-3b13dabea15c" />
 
 
 ---
@@ -54,7 +55,8 @@ Verilog(basys3)을 활용한 공조기, 전자레인지, 스톱워치 프로젝�
 
 - FSM: TIME_SET → COOKING → FINISHED / PAUSED
 
-<img width="880" height="620" alt="1" src="https://github.com/user-attachments/assets/57adf620-24c0-4830-8e73-84b2a556cd2a" />
+<img width="846" height="380" alt="2" src="https://github.com/user-attachments/assets/2a538a07-e57b-4d9a-baa4-6113b00dcf0c" />
+
 
 
 - main_top(Shematic)
