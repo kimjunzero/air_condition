@@ -1,0 +1,7 @@
+*.sim/
+*.sim/
+*.cache/
+*.runs/
+*.log
+*.jou
+.Xil/
