@@ -54,15 +54,18 @@ Verilog(basys3)을 활용한 공조기, 전자레인지, 스톱워치 프로젝�
 
 - FSM: TIME_SET → COOKING → FINISHED / PAUSED
 
-![image.png](attachment:0446fdf0-2f33-406f-9531-8eb3da00ed0f:image.png)
+<img width="880" height="620" alt="1" src="https://github.com/user-attachments/assets/57adf620-24c0-4830-8e73-84b2a556cd2a" />
+
 
 - main_top(Shematic)
 
-![image.png](attachment:20117b85-789a-454b-8593-315015478960:image.png)
+<img width="846" height="380" alt="2" src="https://github.com/user-attachments/assets/bb3e3ddf-f47a-4449-81e1-63c471a6dc51" />
+
 
 - block Diagram(공조기 모드)
 
-![image.png](attachment:f23268d8-d3ef-45e0-9991-55aacab15dbb:image.png)
+<img width="851" height="425" alt="image (1)" src="https://github.com/user-attachments/assets/89afdc1d-a5ef-42cf-83ed-35f0e22bcd5f" />
+
 
 ---
 
@@ -84,7 +87,8 @@ Verilog(basys3)을 활용한 공조기, 전자레인지, 스톱워치 프로젝�
 - **"M" 입력 시** : 거리 정보 전송
 - FSM 기반 송수신 처리, step-by-step 문자 전송
 
-![image.png](attachment:ba706274-64cf-4e5f-acc1-c0c4fce6c035:image.png)
+<img width="1525" height="1162" alt="image (2)" src="https://github.com/user-attachments/assets/f51c6d5d-551e-44a8-8953-4f96c6d52442" />
+
 
 ---
 
